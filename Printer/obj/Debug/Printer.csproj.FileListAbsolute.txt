@@ -4,3 +4,5 @@ c:\users\andyyou\documents\visual studio 2013\Projects\Printer\Printer\bin\Debug
 c:\users\andyyou\documents\visual studio 2013\Projects\Printer\Printer\bin\Debug\Printer.pdb
 c:\users\andyyou\documents\visual studio 2013\Projects\Printer\Printer\obj\Debug\Printer.exe
 c:\users\andyyou\documents\visual studio 2013\Projects\Printer\Printer\obj\Debug\Printer.pdb
+C:\Users\andyyou\Documents\Visual Studio 2013\Projects\Printer\Printer\bin\Debug\PdfSharp.dll
+C:\Users\andyyou\Documents\Visual Studio 2013\Projects\Printer\Printer\bin\Debug\de\PdfSharp.resources.dll
