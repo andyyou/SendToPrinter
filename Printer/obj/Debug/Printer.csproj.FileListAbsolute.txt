@@ -1,0 +1,6 @@
+c:\users\andyyou\documents\visual studio 2013\Projects\Printer\Printer\bin\Debug\Printer.exe.config
+c:\users\andyyou\documents\visual studio 2013\Projects\Printer\Printer\obj\Debug\Printer.csprojResolveAssemblyReference.cache
+c:\users\andyyou\documents\visual studio 2013\Projects\Printer\Printer\bin\Debug\Printer.exe
+c:\users\andyyou\documents\visual studio 2013\Projects\Printer\Printer\bin\Debug\Printer.pdb
+c:\users\andyyou\documents\visual studio 2013\Projects\Printer\Printer\obj\Debug\Printer.exe
+c:\users\andyyou\documents\visual studio 2013\Projects\Printer\Printer\obj\Debug\Printer.pdb
